@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="document.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<body>
+    <p>Loven gælder ikke for virksomheder, der</p>
+    <p>
+       <p>- er under konkursbehandling,</p>
+       <p>- er under rekonstruktionsbehandling,</p>
+       <p>- er under likvidation,</p>
+       <p>- er under tvangsopløsning,</p>
+    </p>
+    <p>Loven gælder for virksomheder, der efter 1. febuar 2002, </p>
+    <p>
+       <p>- har stillet eller er blevet pålagt at stille sikkerhed efter opkrævningslovens § 11,</p>
+       <p>- inden for de seneste 3 år har fået fastsat et tilsvar af skatter eller afgifter m.v. 
+           foreløbigt efter opkrævningslovens § 4, stk. 1, som ikke er erstattet af en angivelse for afregningsperioden,</p>
+       <p>- har en fysisk eller juridisk person, som er ejer af virksomheden, reelt driver virksomheden, er medlem 
+           af virksomhedens bestyrelse eller direktion eller er filialbestyrer i virksomheden, og som inden for de sidste
+            10 år er dømt for overtrædelse af skatte-, told- eller afgiftslovgivningen eller skatte-, told- eller 
+            afgiftssvig efter straffelovens § 289,</p>
+       <p>- ansøger om lån i perioden fra og med den 5. maj 2020 til og med den 15. juni 2020, og som i perioden fra
+            og med den 9. april 2020 til og med den 15. juni 2020 har skiftet 50 pct. eller mere af ejerkredsen, eller 
+            som ansøger om lån i perioden fra og med den 17. november 2020 til og med den 18. december 2020, og som i 
+            perioden fra og med den 27. oktober 2020 til og med den 18. december 2020 har skiftet 50 pct. eller mere af 
+            ejerkredsen, eller som ansøger om lån i perioden fra og med den 17. marts 2021 til og med den 14. april 2021, 
+            og som i perioden fra og med den 29. januar 2021 til og med tidspunktet for anmodningen om lån i henhold til § 1, 2. pkt.,</p>
+       <p>- ikke opfylder betingelserne for at modtage statsstøtte eller</p>
+       <p>- er offentlige institutioner.</p>
+    </p>
+    <p>Loven træder i kraft ved årsskiftet</p>
+    <p>
+        <p>Givet på Amalienborg, 4. marts 2008</p>
+        <p>Ved vor kongelige Hånd og Sejl</p>
+        <p>Margrethe R.</p>
+    </p>
+</body>

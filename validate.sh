@@ -1,0 +1,1 @@
+xmllint --valid --relaxng document.rng lov.xml

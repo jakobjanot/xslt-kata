@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0">
+  <start>
+    <element name="body">
+      <oneOrMore>
+        <choice>
+          <ref name="p"/>
+          <ref name="ul"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="p">
+    <element name="p">
+      <text/>
+    </element>
+  </define>
+  <define name="ul">
+    <element name="ul">
+      <ref name="li"/>
+    </element>
+  </define>
+  <define name="li">
+    <element name="li">
+      <text/>
+    </element>
+  </define>
+</grammar>
