@@ -1,1 +1,1 @@
-xsltproc convert.xsl lov.xml
+xsltproc convert.xsl $@

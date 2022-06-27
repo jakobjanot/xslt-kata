@@ -1,1 +1,1 @@
-xmllint --valid --relaxng document.rng lov.xml
+xmllint --valid --relaxng document.rng $@

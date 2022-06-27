@@ -2,5 +2,5 @@ default namespace = ""
 
 start = element body { (p | ul)+ }
 p = element p { text }
-ul = element ul { li }
+ul = element ul { li+ }
 li = element li { text }

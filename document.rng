@@ -17,7 +17,9 @@
   </define>
   <define name="ul">
     <element name="ul">
-      <ref name="li"/>
+      <oneOrMore>
+        <ref name="li"/>
+      </oneOrMore>
     </element>
   </define>
   <define name="li">
